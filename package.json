@@ -1,0 +1,15 @@
+{
+  "name": "assertive.js",
+  "version": "1.0.0",
+  "description": "A source rewriting tool that makes JavaScript give assertive errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toby Ho",
+  "license": "ISC",
+  "dependencies": {
+    "falafel": "^2.1.0",
+    "jasmine-node": "^1.14.5"
+  }
+}
